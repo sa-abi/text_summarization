@@ -1,0 +1,9 @@
+{
+  "llama2": {
+    "file_name": "test.json",
+    "columns": {
+      "prompt": "src",
+      "response": "tgt"
+    }
+  }
+}
